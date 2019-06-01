@@ -2,6 +2,7 @@
 # Watcha 인턴 선발 2차 구현과제
 
 이 프로그램은 프로그래머스 SummerCoding 참여 회사인 Watcha의 인턴 선발 구현과제입니다. 
+
 확인주소 : http://watcha-intern.s3-website.ap-northeast-2.amazonaws.com/
 
 ## 과제 내용
