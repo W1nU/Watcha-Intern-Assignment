@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import BingoBoardContainer from './containers/BingoBoardsContainer';
-import GameButtonsContainer from './containers/GameButtonsContainer';
+import BingoBoardContainer from './components/containers/BingoBoardsContainer';
+import GameButtonsContainer from './components/containers/GameButtonsContainer';
 import "./App.css";
-import CompletedLineBoardContainer from './containers/CompletedLineBoardContainer';
+import CompletedLineBoardContainer from './components/containers/CompletedLineBoardContainer';
 
 import {observer, inject} from "mobx-react";
 

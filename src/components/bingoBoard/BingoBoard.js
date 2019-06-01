@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import {observer, inject} from "mobx-react";
-import {arrayToMatrix} from "../ArrayFunctions";
+import {arrayToMatrix} from "../../ArrayFunctions";
 import BingoItem from './BingoItem';
 import "./BingoBorad.css"
 
