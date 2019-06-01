@@ -1,0 +1,18 @@
+.completed-line-board {
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+}
+
+.completed-line-board-header {
+    border: 1px solid black;
+    width: 500px;
+    height: 15px;
+}
+
+.completed-line-board-cell {
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
